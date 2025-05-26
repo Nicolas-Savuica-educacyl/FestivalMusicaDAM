@@ -1,4 +1,4 @@
-package FestivalMusicaDAM;
+package FestivalMusicaDAM.Logica;
 
 import java.util.ArrayList;
 
